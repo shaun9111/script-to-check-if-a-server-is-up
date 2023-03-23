@@ -50,4 +50,4 @@ Here's how the script works:
 
     Once the IP address is online, the script displays a message indicating that the IP address is online, and then pauses the script.
 
-To use the script, simply open Notepad or any text editor, copy and paste the above code into the editor, save it with a .bat extension (e.g., ping_until_online.bat), and then run the script. The user will be prompted to enter an IP address to ping, and the script will ping the IP address until it is online.
+To use the script, simply open Notepad or any text editor, copy and paste the above code into the editor, save it with a .bat extension (e.g., ping_until_online.bat), and then run the script. Alternatively you can downlaod the pre-made script I made. The user will be prompted to enter an IP address to ping, and the script will ping the IP address until it is online.
